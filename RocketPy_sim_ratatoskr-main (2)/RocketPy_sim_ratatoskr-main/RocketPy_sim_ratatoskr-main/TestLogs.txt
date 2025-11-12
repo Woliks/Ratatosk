@@ -1,0 +1,4 @@
+Old:	apogee: 10231.97m
+New grain density: apogee: 9668.46m
+New grain all: apogee: 10703.60m
+New new grain all:apogee: 10070.55m
