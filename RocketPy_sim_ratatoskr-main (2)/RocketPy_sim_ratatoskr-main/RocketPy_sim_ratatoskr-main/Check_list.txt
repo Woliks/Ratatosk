@@ -1,0 +1,12 @@
+Motor
+
+Rocket
+
+Fins
+
+Environment
+
+Flight
+	rail lenght: done
+	inclinatio: done
+	heading:done
