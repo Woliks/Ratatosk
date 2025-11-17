@@ -1,12 +1,47 @@
+Check if there is a difference in atmosphere calculations in rocketpy and openrocket
+Add check for forcketpy: done
 Motor
-
+	Propelant weight: done, datacheet
+	Grain number: done, datacheet
+	Grain outer radius: done, datacheet
+	Grain density: done, guestimate
+	Grain height: done, guestimate
+	Grain initial inner radius: done, calculated
+	Grain seperation: done, guestimate
+	Grain center of mass: done, calculated
+	
+	Propellant weight: done, datacheet
+	Outer radius: done, datacheet
+	Dry mass: done, calculated and datacheet values tested
+	Center of dry mass position: doen, calculated
+	Nozzle radius: done, guestimate
+	Throat radius: done, guestimate
+	Nozzle position: done, guestimate
+	Burn time: done, datacheet
+	
+	Thrust source: done, from eng. file
+	Dry inertia: done, calculated
 Rocket
-
+	Inertia: done, from Solidworks
+	power on drag: done, from OpenRocket
+	power off drag: done, from OpenRocket
+	Radius: done, from OpenRocket
+	Mass: done, from OpenRocket
+	Center of mass without motor: done, from OpenRocket
 Fins
-
+	Fin number: done, from OpenRocket
+    Root chord: done, from OpenRocket
+    Tip chord: done, from OpenRocket
+    Span: done, from OpenRocket
+    Sweep length: done, from OpenRocket
+    Position: done, from OpenRocket
+    Cant angle: done, from OpenRocket
+Parachute
+	TBD
 Environment
-
+	Pressure: done
+	Wind: done
 Flight
-	rail lenght: done
-	inclinatio: done
-	heading:done
+	rail length: done
+	inclination: done
+	heading: done, from Design Test Evluation Guide EuRoC 2026 Horizon.pdf
