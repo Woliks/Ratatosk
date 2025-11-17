@@ -1,5 +1,6 @@
-Check if there is a difference in atmosphere calculations in rocketpy and openrocket
-Add check for forcketpy: done
+Check if there is a difference in atmosphere calculations in rocketpy and openrocket: TBD
+Investigate stability changes in rocketpy: TBD
+Add check for rocketpy: done
 Motor
 	Propelant weight: done, datacheet
 	Grain number: done, datacheet
@@ -14,7 +15,7 @@ Motor
 	Outer radius: done, datacheet
 	Dry mass: done, calculated and datacheet values tested
 	Center of dry mass position: doen, calculated
-	Nozzle radius: done, guestimate
+	Nozzle radius: done, guestimateS
 	Throat radius: done, guestimate
 	Nozzle position: done, guestimate
 	Burn time: done, datacheet
@@ -44,4 +45,6 @@ Environment
 Flight
 	rail length: done
 	inclination: done
-	heading: done, from Design Test Evluation Guide EuRoC 2026 Horizon.pdf
+	heading: done, from Design Test Evluation Guide
+	EuRoC 2026 Horizon.pdf
+	
